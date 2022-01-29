@@ -1,0 +1,12 @@
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\bin\Debug\201700598_Tienda.exe.config
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\bin\Debug\201700598_Tienda.exe
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\bin\Debug\201700598_Tienda.pdb
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\bin\Debug\201700598_Tienda.xml
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\obj\Debug\201700598_Tienda.vbprojAssemblyReference.cache
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\obj\Debug\_201700598_Tienda.Form1.resources
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\obj\Debug\_201700598_Tienda.Resources.resources
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\obj\Debug\201700598_Tienda.vbproj.GenerateResource.cache
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\obj\Debug\201700598_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\obj\Debug\201700598_Tienda.exe
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\obj\Debug\201700598_Tienda.xml
+C:\Users\LUDVIN MEJIA\source\repos\201700598_Tienda\201700598_Tienda\obj\Debug\201700598_Tienda.pdb
