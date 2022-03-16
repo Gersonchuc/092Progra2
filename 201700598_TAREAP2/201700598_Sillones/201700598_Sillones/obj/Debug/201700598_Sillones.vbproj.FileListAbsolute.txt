@@ -1,0 +1,24 @@
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\bin\Debug\201700598_Sillones.exe.config
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\bin\Debug\201700598_Sillones.exe
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\bin\Debug\201700598_Sillones.pdb
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\bin\Debug\201700598_Sillones.xml
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.vbproj.AssemblyReference.cache
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\_201700598_Sillones.Form1.resources
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\_201700598_Sillones.Resources.resources
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.vbproj.GenerateResource.cache
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.exe
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.xml
+C:\Users\Luis Arias\Desktop\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.pdb
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\bin\Debug\201700598_Sillones.exe.config
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\bin\Debug\201700598_Sillones.exe
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\bin\Debug\201700598_Sillones.pdb
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\bin\Debug\201700598_Sillones.xml
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.vbproj.AssemblyReference.cache
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\_201700598_Sillones.Form1.resources
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\_201700598_Sillones.Resources.resources
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.vbproj.GenerateResource.cache
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.vbproj.CoreCompileInputs.cache
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.exe
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.xml
+C:\Users\Rena\Desktop\primer semestre 2022\progra compu 2\201700598_TAREAP2\201700598_Sillones\201700598_Sillones\obj\Debug\201700598_Sillones.pdb
