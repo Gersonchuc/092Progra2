@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "201700598_VUELTAC", "201700598_VUELTAC\201700598_VUELTAC.vbproj", "{DFEE3C55-A339-47EA-B3C0-2CA64083A9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEE3C55-A339-47EA-B3C0-2CA64083A9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEE3C55-A339-47EA-B3C0-2CA64083A9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEE3C55-A339-47EA-B3C0-2CA64083A9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEE3C55-A339-47EA-B3C0-2CA64083A9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92182A01-18A6-44B0-838F-4EFDF0A199E3}
+	EndGlobalSection
+EndGlobal
